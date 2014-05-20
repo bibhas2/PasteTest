@@ -1,0 +1,15 @@
+This is an Eclipse project that shows how to upload
+an image file to server by pasting it in a browser.
+This has been tested with Chrome.
+
+*** Using the application ***
+Deploy the application to a Java EE server like Tomcat.
+
+Open the URL: http://localhost:8080/PasteTest/
+
+Copy an image into the clip board.
+
+Click on the grey box of the web page and then paste the image.
+
+You should see a confirmation dialog showing where the server
+has saved the image file.
